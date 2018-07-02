@@ -1,5 +1,5 @@
 # GamblingAddiction
-Discord bot written in Python to play Texas Holdem.  
+Discord bot written in Python 3 to play Texas Holdem.  
 
 Created using Discord.py and Deuces, a poker hand evaluation library I found on Github (https://github.com/worldveil/deuces). 
 
