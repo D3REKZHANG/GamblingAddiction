@@ -1,7 +1,7 @@
 # GamblingAddiction
-Discord bot written in Python 3 to play Texas Holdem.  
+Discord bot written in Python 3 to play Texas Holdem and satisfy any other gambling desires on Discord.  
 
-Created using Discord.py and Deuces, a poker hand evaluation library I found on Github (https://github.com/worldveil/deuces). 
+Created using Discord.py and Deuces - a poker hand evaluation library I found on Github (https://github.com/worldveil/deuces). 
 
 <h2>Implementation Notes</h2>
 The bot utilises many of the tools Discord.py offers, and the code is structured around the API. There are classes for players, cards, 
@@ -23,3 +23,27 @@ hand each round.
 The bot can run multiple games in different channels and supports up to 8 players per game (this is a coded value). Players can give and
 receive money from eachother and everyone can beg the bot for $10 once daily. All commands are error trapped, with good error messages. It
 is impossible to break or crash the bot. 
+
+<p></p>
+
+<h2>License</h2>
+
+Copyright (c) 2018 Derek Zhang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
