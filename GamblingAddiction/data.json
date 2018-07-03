@@ -1,0 +1,58 @@
+{
+    "191723115020156929": {
+        "display_name": "DerekZhang",
+        "folds": 0,
+        "games": 9,
+        "lastbeg": [
+            7,
+            2,
+            12,
+            6
+        ],
+        "money": 11749,
+        "winrate": 55,
+        "won": 5
+    },
+    "369638583172202496": {
+        "display_name": "Ninjaclasher",
+        "folds": 1,
+        "games": 5,
+        "lastbeg": [
+            7,
+            1,
+            19,
+            17
+        ],
+        "money": 20,
+        "winrate": 40,
+        "won": 2
+    },
+    "384906188564856846": {
+        "display_name": "GamblingAddiction",
+        "folds": 0,
+        "games": 0,
+        "lastbeg": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "money": 200,
+        "winrate": 0,
+        "won": 0
+    },
+    "385978159738257431": {
+        "display_name": "BotSlave",
+        "folds": 0,
+        "games": 4,
+        "lastbeg": [
+            7,
+            1,
+            19,
+            16
+        ],
+        "money": 10,
+        "winrate": 50,
+        "won": 2
+    }
+}
