@@ -3,6 +3,8 @@ Discord bot written in Python 3 to play Texas Holdem and satisfy any other gambl
 
 Created using Discord.py and Deuces - a poker hand evaluation library I found on Github (https://github.com/worldveil/deuces). 
 
+**2021 Update:** Due to the Discord.py library being rewritten, this code will no longer work until I eventually update all of the code.
+
 <h2>Implementation Notes</h2>
 The bot utilises many of the tools Discord.py offers, and the code is structured around the API. There are classes for players, cards, 
 and games for easier coding. Player data is stored in once massive json which is opened and edited with every command that requires it.
